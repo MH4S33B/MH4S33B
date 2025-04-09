@@ -86,7 +86,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MH4S33B&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=MH4S33B&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MH4S33B&layout=compact&theme=dark&hide=html,css)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MH4S33B&layout=compact&theme=dark&hide=html,css)](https://github-readme-stats.vercel.app/api/top-langs/?username=MH4S33B&layout=compact&theme=dark&hide=html,css)
 
 </div>
 
