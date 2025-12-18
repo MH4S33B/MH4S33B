@@ -71,7 +71,7 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://tryhackme.com/p/MH4S33B" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/MH4S33B.png" alt="TryHackMe" width="300">
+      <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3729167" style='border:none;'></iframe>
   </a>
   <a href="https://app.hackthebox.com/profile/1997415" target="_blank">
     <img src="https://www.hackthebox.com/badge/image/2326522" alt="HackTheBox" width="300">
