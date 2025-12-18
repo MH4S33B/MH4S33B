@@ -11,10 +11,10 @@
 </h3>
 
 <div align="center">
-  
-[![Visitors](https://komarev.com/ghpvc/?username=MH4S33B&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/MH4S33B)
-[![Repos Badge](https://badges.pufler.dev/repos/MH4S33B?color=blue&style=flat)](https://github.com/MH4S33B?tab=repositories)
-[![Years Badge](https://badges.pufler.dev/years/MH4S33B?color=blue&style=flat)](https://github.com/MH4S33B)
+
+  <img src="https://komarev.com/ghpvc/?username=MH4S33B&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://badges.pufler.dev/repos/MH4S33B" alt="Repositories" />
+  <img src="https://badges.pufler.dev/years/MH4S33B" alt="Years on GitHub" />
 
 </div>
 
@@ -69,12 +69,12 @@
 
 ## 🏆 CTF Achievements
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
   <a href="https://tryhackme.com/p/MH4S33B" target="_blank">
-      <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3729167" style='border:none;'></iframe>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/MH4S33B.png" alt="TryHackMe Badge" style="height: 100px;">
   </a>
   <a href="https://app.hackthebox.com/profile/1997415" target="_blank">
-    <img src="https://www.hackthebox.com/badge/image/2326522" alt="HackTheBox" width="300">
+    <img src="https://www.hackthebox.com/badge/image/2326522" alt="HackTheBox Badge" style="height: 100px;">
   </a>
 </div>
 
