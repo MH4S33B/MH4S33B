@@ -20,7 +20,7 @@
 
 ---
 
-### 📌 Quick Facts
+####### 📌 Quick Facts
 - 🎯 Currently mastering **CTF challenges & exploit development**
 - 🐍 Python | 🦖 C++ | 🐧 Linux enthusiast
 - 💡 Ask me about **Cybersecurity tools & methodologies**
